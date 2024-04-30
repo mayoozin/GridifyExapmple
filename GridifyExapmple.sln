@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridifyExapmple", "GridifyExapmple\GridifyExapmple.csproj", "{C8E30224-3095-4E7D-AA4E-39E44954371C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E30224-3095-4E7D-AA4E-39E44954371C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E30224-3095-4E7D-AA4E-39E44954371C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E30224-3095-4E7D-AA4E-39E44954371C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E30224-3095-4E7D-AA4E-39E44954371C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBB96EFC-21E3-48B8-A75D-3EFB83DE4284}
+	EndGlobalSection
+EndGlobal
